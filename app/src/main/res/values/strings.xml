@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AppGabungan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Penjelasan_Cupcake">
+         Android Cupcake adalah versi Android ketiga yang dikembangkan oleh Google
+    </string>
+    <string name="Penjelasan_Donut">
+         Android Donut adalah versi yang memperlihatkan informasi dunia seperti di ujung jari, pencarian web, mendapatkan petunjuk arah dan menonton video.
+    </string>
+    <string name="Penjelasan_Eclair">
+         Android Eclair adalah versi yang dapat membuat layar depan sesuai keinginan, mengatur aplikasi di beberapa layar, latar belakang (Wallpaper) hidup yang menakjubkan menanggapi sentuhan.
+    </string>
+    <string name="Penjelasan_Froyo">
+         Android Froyo (Froyo adalah singkatan dari frozen yogurt) dirilis pada Mei 2010, berdasarkan Linux kernel 2.6.32. Android Froyo 2.2 memiliki peningkatan kinerja sistem signifikan diatas versi Eclair.
+    </string>
+    <string name="Penjelasan_Gingerbread">
+         Android Gingerbread adalah versi yang menawarkan antarmuka pengguna yang diperbaharui dan peningkatan kinerja lebih baik, dirilis pada Desember 2010 berdasarkan Linux kernel 2.6.35.
+    </string>
+    <string name="Penjelasan_Honeycomb">
+         Android Honeycomb adalah versi yang dioptimalkan untuk perangkat tablet, peluncuran versi ini membuka cakrawala baru di manapun berada.
+    </string>
+    <string name="Penjelasan_Icecreamsandwich">
+         Android Ice Cream Sandwich adalah versi yang dirilis dengan perubahan yang baru, desain halus, sederhana, indah dan pintar.
+    </string>
+    <string name="Penjelasan_Jellybean">
+         Android Jelly Bean adalah versi yang memiliki fitur cepat dan halus dilengkapi grafis.
+    </string>
+    <string name="Penjelasan_Kitkat">
+         Android KitKat adalah versi sistem yang cerdas, sederhana, merupakan sebuah desain lebih halus, meningkatkan kinerja, dan fitur baru.
+    </string>
+    <string name="Penjelasan_Lollipop">
+         Android Lollipop adalah versi yang memiliki kecerdasan pada layar besar maupun kecil, informasi tepat pada saat yang tepat dengan nama yang manis.
+    </string>
+    <string name="Penjelasan_Marshmallow">
+         Android Marshmallow adalah versi utama selanjutnya dari sistem operasi Android. Pertama kali diperkenalkan Mei 2015 dengan kode nama Android M, secara resmi dirilis pada Oktober 2015.
+    </string>
+    <string name="Penjelasan_Nougat">
+         Android Nougat adalah sistem operasi yang memperkenalkan perubahan penting untuk platform dan pengembangan, termasuk kemampuan untuk menampilkan beberapa aplikasi di layar sekaligus dalam tampilan layar terpisah, dukungan untuk balasan pemberitahuan, serta lingkungan berbasis “Java OpenJDK” dan dukungan untuk render grafis “Vulkan API”, dan pembaruan sistem mulus pada perangkat yang didukung.
+    </string>
+    <string name="Penjelasan_Oreo">
+         Android Oreo adalah rilis utama ke 8 dari sistem operasi Android. Versi ini pertama kali dirilis sebagai preview pengembang pada Maret 2017, dengan gambar pabrik untuk perangkat Nexus dan Pixel saat ini.
+    </string>
+    <string name="Penjelasan_Pie">
+         Android Pie adalah versi utama kesembilan dari sistem operasi Android. Ini pertama kali diumumkan oleh Google pada 7 Maret 2018, dan pratinjau pengembang pertama dirilis pada hari yang sama. Pratinjau kedua, yang dianggap berkualitas beta, dirilis pada 8 Mei 2018. Beta terakhir Android P (pratinjau kelima, juga dianggap sebagai “Release Calon”) dirilis pada 25 Juli 2018. Rilis resmi pertama dirilis pada Agustus 6, 2018.
+    </string>
+</resources>

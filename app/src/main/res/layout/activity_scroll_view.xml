@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#eeff07"
+    tools:context=".ScrollViewActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 1.5 Cupcake"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/cupcake"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 1.6 Donut"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/donut"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 2.0 Eclair"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/eclair"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 2.2 Froyo"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/froyo"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 2.3 Gingerbread"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/gingerbread"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 3.0 Honeycomb"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/honeycomb"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 4.0 Ice Cream Sandwich"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/icecreamsandwich"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 4.1 Jelly Bean"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/jellybean"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 4.4 Kitkat"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/kitkat"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 5.0 Lollipop"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/lollipop"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 6.0 Marshmallow"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/marshmallow"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 7.0 Nougat"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/nougat"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 8.0 Oreo"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/oreo"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android 9.0 Pie"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:id="@+id/pie"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/edge_button"/>
+    </LinearLayout>
+
+</ScrollView>
